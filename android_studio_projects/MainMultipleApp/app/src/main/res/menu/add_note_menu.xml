@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Adding Menu to show the function to
+    User to delete and edit the data-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/huinja1" android:title="Hehe"></item>
+    <item android:id="@+id/huinja2" android:title="Haha"></item>
+    <item android:id="@+id/huinja3" android:title="Ja mogu"></item>
+    <item android:id="@+id/huinja4" android:title="zdes'"></item>
+    <item android:id="@+id/huinja5" android:title="pisat'"></item>
+    <item android:id="@+id/huinja6" android:title="vsjo chto"></item>
+    <item android:id="@+id/huinja7" android:title="UGODNO"></item>
+    <item android:id="@+id/huinja8" android:title="BOOM I AM"></item>
+    <item android:id="@+id/huinja9" android:title="WIZARD"></item>
+
+</menu>
